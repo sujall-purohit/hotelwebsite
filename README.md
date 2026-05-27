@@ -146,49 +146,17 @@ http://localhost/hotelwebsite
 
 ## Frontend Screen Recording
 
-Add your frontend video link here:
 
 ```md
 [Frontend Demo Video](https://github.com/user-attachments/assets/16680a5c-98cc-49b7-bf4b-c18baba2095b)
-
-
-
-
-```
-
-Example:
-
-```md
-[Frontend Demo Video](https://github.com/user-attachments/assets/7058b6ed-34f6-465f-ba82-045f051f5eeb)
-```
 
 ---
 
 ## Backend/Admin Panel Screen Recording
 
-Add your backend/admin video link here:
-
 ```md
-[Backend Demo Video](https://your-video-link.com)
+[Backend Demo Video](https://github.com/user-attachments/assets/7058b6ed-34f6-465f-ba82-045f051f5eeb)
 ```
-
-Example:
-
-```md
-[Backend Demo Video](https://youtu.be/your-backend-video)
-```
-
----
-
-# Admin Credentials
-
-```txt
-Username: admin
-Password: admin123
-```
-
-(Change these before deployment.)
-
 ---
 
 # Future Improvements
@@ -204,30 +172,13 @@ Password: admin123
 
 ---
 
-# Contributing
-
-Contributions are welcome.
-
-1. Fork the project
-2. Create a feature branch
-3. Commit changes
-4. Push to branch
-5. Open a Pull Request
-
----
-
-# License
-
-This project is for educational and portfolio purposes.
-
----
 
 # Author
 
 ## Sujal Purohit
 
 * GitHub: [https://github.com/sujall-purohit](https://github.com/sujall-purohit)
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: https://www.linkedin.com/in/sujal-purohit-aa53ba275/
 
 ---
 
