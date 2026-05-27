@@ -144,19 +144,9 @@ http://localhost/hotelwebsite
 
 # Screen Recordings
 
-## Frontend Screen Recording
-
-
-```md
 [Frontend Demo Video](https://github.com/user-attachments/assets/16680a5c-98cc-49b7-bf4b-c18baba2095b)
 
----
-
-## Backend/Admin Panel Screen Recording
-
-```md
 [Backend Demo Video](https://github.com/user-attachments/assets/7058b6ed-34f6-465f-ba82-045f051f5eeb)
-```
 ---
 
 # Future Improvements
