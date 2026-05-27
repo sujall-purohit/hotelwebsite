@@ -144,7 +144,3 @@ Frontend Developer | PHP Developer | React Learner
 - LinkedIn: https://www.linkedin.com/in/sujal-purohit-aa53ba275/
 
 ---
-
-# License
-
-This project is created for learning and portfolio purposes.
